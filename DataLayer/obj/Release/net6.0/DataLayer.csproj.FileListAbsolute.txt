@@ -1,0 +1,15 @@
+D:\ProductRegistration\DataLayer\bin\Release\net6.0\DataLayer.deps.json
+D:\ProductRegistration\DataLayer\bin\Release\net6.0\DataLayer.dll
+D:\ProductRegistration\DataLayer\bin\Release\net6.0\DataLayer.pdb
+D:\ProductRegistration\DataLayer\bin\Release\net6.0\Entities.dll
+D:\ProductRegistration\DataLayer\bin\Release\net6.0\Entities.pdb
+D:\ProductRegistration\DataLayer\obj\Release\net6.0\DataLayer.csproj.AssemblyReference.cache
+D:\ProductRegistration\DataLayer\obj\Release\net6.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProductRegistration\DataLayer\obj\Release\net6.0\DataLayer.AssemblyInfoInputs.cache
+D:\ProductRegistration\DataLayer\obj\Release\net6.0\DataLayer.AssemblyInfo.cs
+D:\ProductRegistration\DataLayer\obj\Release\net6.0\DataLayer.csproj.CoreCompileInputs.cache
+D:\ProductRegistration\DataLayer\obj\Release\net6.0\DataLayer.csproj.CopyComplete
+D:\ProductRegistration\DataLayer\obj\Release\net6.0\DataLayer.dll
+D:\ProductRegistration\DataLayer\obj\Release\net6.0\refint\DataLayer.dll
+D:\ProductRegistration\DataLayer\obj\Release\net6.0\DataLayer.pdb
+D:\ProductRegistration\DataLayer\obj\Release\net6.0\ref\DataLayer.dll
